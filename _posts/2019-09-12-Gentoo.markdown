@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Gentoo"
-date:   2019-09-11 17:31:21 +0300
-categories: jekyll update
+tags: tag1
 ---
+
 
 
 # Gentoo
