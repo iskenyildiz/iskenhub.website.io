@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: default
 title:  "VLAN_Trunk"
-date:   2019-09-11 17:31:21 +0300
-categories: jekyll update
+tags: tag1
 ---
+
+
 
 # VLAN Tagging using a Cisco Layer 3 Switch
 
