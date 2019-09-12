@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title:  "Ubuntu 16.04 Authoritative-Only DNS using BIND"
